@@ -1,0 +1,5 @@
+Sitemap: http://execrecruit.com/sitemap.xml
+Sitemap: http://execrecruit.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
